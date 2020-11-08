@@ -10,3 +10,4 @@ const saudacao = () => {
 // FIXME resolver isso aqui
 helloworld();
 console.log(` A saudação do momento é ${saudacao()}`);
+console.log();
